@@ -1,11 +1,5 @@
 ## Hi there 👋
 
-<!--
-**DANGKHOIk22/DANGKHOIk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 # 💫 About Me:
 My name is Đăng Khôi 👋👋👋. 
 - 🌱 I’m currently studying Data Science at the University of Science, VNU-HCM.
