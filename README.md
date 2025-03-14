@@ -19,8 +19,5 @@ My name is Đăng Khôi 👋👋👋.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<a href="https://github.com/DANGKHOIk22/Final-Project">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=DANGKHOIk22&repo=Deeplab-pytorch&theme=onedark" />
-</a>
+
 
